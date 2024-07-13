@@ -13,9 +13,9 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 <br><br>
-- Apasionado desarrollo front-end autodidactico<br><br>
-- Me gusta el futbol<br><br>
-- Actualmente aprendiendo Desarrollo Web en Cibertec<br><br>
+- Apasionado desarrollo front-end y back-end autodidáctico<br><br>
+- Me gusta el fútbol<br><br>
+- Actualmente estudio Computación e Informática en Cibertec<br><br>
 - Web personal https://repositorio-angel.netlify.app/ <br>
 <br>
 <p align="center">
