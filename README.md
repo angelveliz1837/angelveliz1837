@@ -4,8 +4,7 @@
 <h1 align="center"><b>Hola te saluda Angel </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!-- Titulo en Seguimiento -->
 <p align="center">
-  <a href="https://github.com/angelveliz1837"><img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador%20Junior%3B1%20a%C3%B1o%20de%20experiencia%20en%20codificaci%C3%B3n%3BSiempre%20aprendiendo%20nuevas%20tecnolog%C3%ADas
-&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/angelveliz1837"><img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador%20 Junior;1%20año%20de%20codificacion%20experiencia;Siempre%20aprendiendo%20nuevas%20tecnologias&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
